@@ -1,5 +1,6 @@
 AAAA 
 Feature1
+Feature2
 Some changes
 Some changes to master
 Some changes to master repo
